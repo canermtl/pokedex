@@ -3,8 +3,8 @@
 A simple **Pokedex** app built with React. It fetches data from **PokeAPI** and provides search, type filtering, pagination, and a Pokémon details page.
 
 ## Live Demo
-pokedex-tau-silk.vercel.app
-
+[pokedex-tau-silk.vercel.app
+](https://pokedex-tau-silk.vercel.app/)
 ## Tech Stack
 - React (Vite)
 - React Router
